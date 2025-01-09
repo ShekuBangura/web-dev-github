@@ -1,6 +1,6 @@
 this is my first commit!
 
-I'm trying to learn how to use git and github.
+I'm trying to learn how to use git or github.
 
 I'm going to add some more text to this file to see if it works.
 
@@ -9,3 +9,4 @@ I'm going to add some more text to this file to see if it works.
 I'm going to add some more text to this file to see if it works.
 
 I'm going to add some more text to this file to see if it works.
+
