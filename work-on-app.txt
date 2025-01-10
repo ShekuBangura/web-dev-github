@@ -1,0 +1,7 @@
+Created the current instance of the app!
+
+It is important to remember that the app is 
+still in its early stages and there may be 
+some bugs or issues that need to be addressed. 
+However, the app is now functional and can be 
+used to manage tasks and projects.
